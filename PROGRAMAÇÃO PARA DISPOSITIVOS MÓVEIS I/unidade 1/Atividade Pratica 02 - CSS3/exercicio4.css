@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+}
+
+h3 {
+    text-decoration: underline;
+}
+strong {
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+}
